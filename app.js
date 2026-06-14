@@ -1,1 +1,0 @@
-console.log('PoE2 Companion v1.0 geladen');
