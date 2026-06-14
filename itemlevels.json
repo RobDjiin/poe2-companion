@@ -1,0 +1,41 @@
+[
+  {
+    "ilvl": 65,
+    "tier": "T1",
+    "score": "B",
+    "description": "Starter Breakpoint",
+    "unlocks": [
+      "30% Movement Speed",
+      "+2 Minion Skills",
+      "+2 Melee Skills"
+    ]
+  },
+  {
+    "ilvl": 71,
+    "tier": "T7",
+    "score": "A",
+    "description": "Resistance Breakpoint",
+    "unlocks": [
+      "High Resistance Tiers"
+    ]
+  },
+  {
+    "ilvl": 75,
+    "tier": "T11",
+    "score": "S",
+    "description": "Damage Breakpoint",
+    "unlocks": [
+      "Best Flat Physical Damage",
+      "Best Flat Elemental Damage"
+    ]
+  },
+  {
+    "ilvl": 80,
+    "tier": "Endgame",
+    "score": "S",
+    "description": "Maximum Endgame Bases",
+    "unlocks": [
+      "Full Mod Pool"
+    ]
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "slot": "Boots",
+    "priority": "S",
+    "mods": [
+      "30% Movement Speed",
+      "Life",
+      "Resistances"
+    ]
+  },
+  {
+    "slot": "Gloves",
+    "priority": "S",
+    "mods": [
+      "+2 Melee Skills",
+      "Attack Speed",
+      "Flat Damage"
+    ]
+  },
+  {
+    "slot": "Helmet",
+    "priority": "S",
+    "mods": [
+      "+2 Minion Skills",
+      "Critical Strike Chance",
+      "Life"
+    ]
+  },
+  {
+    "slot": "Ring",
+    "priority": "S",
+    "mods": [
+      "Flat Physical Damage",
+      "Life",
+      "Resistances"
+    ]
+  },
+  {
+    "slot": "Belt",
+    "priority": "A",
+    "mods": [
+      "Life",
+      "Resistances",
+      "Strength"
+    ]
+  }
+]

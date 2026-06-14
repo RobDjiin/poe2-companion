@@ -1,0 +1,53 @@
+[
+  {
+    "name": "Perfect Essence of Battle",
+    "archetype": "Attack",
+    "priority": "S",
+    "recommendedFor": [
+      "Warrior",
+      "Monk",
+      "Mercenary"
+    ]
+  },
+  {
+    "name": "Perfect Essence of Sorcery",
+    "archetype": "Spell",
+    "priority": "S",
+    "recommendedFor": [
+      "Sorceress",
+      "Witch"
+    ]
+  },
+  {
+    "name": "Greater Essence of Grounding",
+    "archetype": "Defense",
+    "priority": "A",
+    "recommendedFor": [
+      "Lightning Resistance"
+    ]
+  },
+  {
+    "name": "Greater Essence of Insulation",
+    "archetype": "Defense",
+    "priority": "A",
+    "recommendedFor": [
+      "Fire Resistance"
+    ]
+  },
+  {
+    "name": "Greater Essence of Thawing",
+    "archetype": "Defense",
+    "priority": "A",
+    "recommendedFor": [
+      "Cold Resistance"
+    ]
+  },
+  {
+    "name": "Greater Essence of Ruin",
+    "archetype": "Defense",
+    "priority": "A",
+    "recommendedFor": [
+      "Chaos Resistance"
+    ]
+  }
+]
